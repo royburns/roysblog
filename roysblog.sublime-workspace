@@ -1,0 +1,204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ip",
+				"Package Control: Install Package"
+			],
+			[
+				"pach",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 175.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/royburns/WorkSpace/auto_testing/automationtest/tools/sitemap/index.html",
+		"/Users/royburns/WorkSpace/auto_testing/automationtest/tools/sitemap/index/new-style.css",
+		"/Users/royburns/WorkSpace/auto_testing/automationtest/tools/sitemap/index/css",
+		"/Users/royburns/WorkSpace/auto_testing/automationtest/tools/sitemap/index/bannerbar.html",
+		"/Users/royburns/WorkSpace/auto_testing/automationtest/tools/sitemap/index2.html",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/models/user_log.go",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/initial/sql.go",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/controllers/admin/user.go",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/models/user.go",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/routers/admin.go",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/controllers/admin/admin.go",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/custom/app.conf",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/conf/app.conf",
+		"/Users/royburns/WorkSpace/auto_testing/automationtest/httpAPIAutomationTest/create_article.py",
+		"/Users/royburns/WorkSpace/auto_testing/automationtest/httpAPIAutomationTest/test_QiuShiBaiKe.py",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/duguying/blog/conf/ueditor.json",
+		"/Users/royburns/WorkSpace/auto_testing/appium-sample-code/sample-code/examples/node/helloworld.js",
+		"/Users/royburns/WorkSpace/auto_testing/appium-sample-code/sample-code/examples/python/ios_simple.py",
+		"/Users/royburns/WorkSpace/auto_testing/appium-sample-code/sample-code/examples/python/android_simple.py",
+		"/Users/royburns/Documents/doc/doc/门房秦大爷的故事(未删节全本)",
+		"/Users/royburns/WorkSpace/auto_testing/appium-sample-code/sample-code/examples/node/ios-simple.js",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/royburns/goTestPhoneManagement/conf/app.conf",
+		"/Users/royburns/WorkSpace/goprojects/src/github.com/royburns/foodsblog/conf/app.conf",
+		"/Users/royburns/WorkSpace/gostudy/gotest.go",
+		"/Users/royburns/WorkSpace/gostudy/untitled",
+		"/Users/royburns/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/Users/royburns/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Users/royburns/Documents/其实研究用户数据之后，会发现越是屌丝越不在意金钱，更在意的是容易身份，存在感",
+		"/Users/royburns/Documents/富途牛牛bug集合",
+		"/Users/royburns/Documents/糗百",
+		"/Users/royburns/Documents/职业生涯上的七年之痒",
+		"/Users/royburns/Documents/测试小分队周报 — 第44周 — 2015年10月19日~2015年10月23日",
+		"/Users/royburns/Documents/门房秦大爷的故事(未删节全本)"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fo o te r",
+			"Apache",
+			"源码管理系统",
+			"menu",
+			"section",
+			"main",
+			"col",
+			"menu",
+			"left",
+			"nav",
+			"na v",
+			"nav",
+			">\n",
+			"package",
+			"github_token"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/royburns/WorkSpace/gostudy":
+	{
+		"height": 167.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
