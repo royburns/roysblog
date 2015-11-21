@@ -58,7 +58,7 @@ func (this *baseController) display(tpl string) {
 
 	if tpl == "index" {
 		this.LayoutSections["banner"] = theme + "/banner.html"
-		this.LayoutSections["middle"] = theme + "/middle.html"
+		// this.LayoutSections["middle"] = theme + "/middle.html"
 	}
 	if this.right != "" {
 		this.LayoutSections["right"] = theme + "/" + this.right
